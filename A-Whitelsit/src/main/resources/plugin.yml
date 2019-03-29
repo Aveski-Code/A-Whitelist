@@ -1,0 +1,5 @@
+name: A-Whitelist
+version: 1.0
+main: pl.AVESKICODE.developers.whitelist.Main
+authors: [Aveski]
+description: Plugin na whitelist 1.0 alfa
